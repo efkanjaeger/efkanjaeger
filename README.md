@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efkan</h1>
 <h3 align="center">React Front end developer</h3>
 
-- 🌱 I’m currently learning **React.js ,TS and Node.js**
+- 🌱 I am a Front end developer experienced with **HTML, CSS, Javascript, Bootstrap, React.js ,TS**
 
 - 📫 How to reach me **efkansen321@gmail.com**
 
